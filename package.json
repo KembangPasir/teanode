@@ -1,6 +1,6 @@
 {
   "name": "@kembangpasir/teanode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just for tea",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": "kembangpasir",
   "dependencies": {
-    "@rizaldwi10/tealand" : "1.1.4 "
+    "tealand": "1.1.4"
   },
   "license": "ISC",
   "bugs": {
