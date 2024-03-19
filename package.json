@@ -1,0 +1,22 @@
+{
+  "name": "@kembangpasir/teanode",
+  "version": "1.0.0",
+  "description": "just for tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KembangPasir/teanode.git"
+  },
+  "author": "kembangpasir",
+  "dependencies": {
+    "@rizaldwi10/tealand" : "1.1.4 "
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KembangPasir/teanode/issues"
+  },
+  "homepage": "https://github.com/KembangPasir/teanode#readme"
+}
